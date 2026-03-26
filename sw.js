@@ -2,11 +2,8 @@ const CACHE_NAME = "simonetti-" + Date.now();
 const urlsToCache = [
   "./",
   "./index.html",
-  "./agendamento.html",
-  "./ajuste.html",
   "./cargas do dia.html",
   "./login.html",
-  "./offline.html",
   "./manifest.json",
   "./icon-192.png",
   "./first_login.html",
